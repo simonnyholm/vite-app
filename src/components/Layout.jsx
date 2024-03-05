@@ -14,6 +14,7 @@ export default function Layout() {
             Kontakt
           </NavLink>
         </nav>
+        <div>Simon Nyholm Sørensen</div>
       </header>
       <main>
         <Outlet />
