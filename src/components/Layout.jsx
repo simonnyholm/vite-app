@@ -10,6 +10,9 @@ export default function Layout() {
           <NavLink to="/" className="p-3 text-[28px}">
             Hjem
           </NavLink>
+          <NavLink to="/personligt" className="p-3 text-[28px}">
+            Personligt
+          </NavLink>
           <NavLink to="/kontakt" className="p-3 text-[28px}">
             Kontakt
           </NavLink>
